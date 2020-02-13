@@ -7,4 +7,4 @@ The Problem should now be solved. \
 \
 Copyright: License is GNU AGPLv3 \
 Contributor: Lars Boos \
-E-Mail: lars.boos@gmx.de
+E-Mail: livedeath@gmx.de
